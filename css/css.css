@@ -5,12 +5,16 @@
 #titel{
   text-align: center; 
 }
-img{
+#logo{
   display: block;
   margin: 30px auto;
 }
 
 .ui-btn{
   font-size: 13px;
+}
+
+.facebook{
+  background: url(../facebook.png) no-repeat 0.5625em center;
 }
 
